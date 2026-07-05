@@ -1,5 +1,5 @@
-Universal relay module UR-01
-==================================
+Universal relay module UR-10
+============================
 
 Module with 1 relay.
 
