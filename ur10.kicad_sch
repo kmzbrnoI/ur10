@@ -3357,7 +3357,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-0000620f9b3b")
-		(property "Reference" "R11"
+		(property "Reference" "R1"
 			(at 97.282 72.4916 0)
 			(effects
 				(font
@@ -3419,7 +3419,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "R11")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3435,7 +3435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3226162f-4706-4c3f-a9fb-d798ed6fbe29")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR01"
 			(at 153.67 101.6 0)
 			(effects
 				(font
@@ -3485,7 +3485,7 @@
 		(instances
 			(project ""
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "#PWR02")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -3501,7 +3501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3baf8c12-9895-4c65-acd9-1c4daf2da556")
-		(property "Reference" "R14"
+		(property "Reference" "R3"
 			(at 109.728 83.8778 0)
 			(effects
 				(font
@@ -3563,7 +3563,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "R14")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3595,7 +3595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Euroclamp:MVE252-5-V-3x"
 			(at 44.45 40.64 0)
 			(effects
 				(font
@@ -3722,7 +3722,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "508aa160-b446-4e92-a947-614a877fadf1")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 127.3175 85.4245 0)
 			(effects
 				(font
@@ -3783,7 +3783,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -3799,7 +3799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "58c049f7-be2a-459d-bcca-7ba347753346")
-		(property "Reference" "H3"
+		(property "Reference" "H4"
 			(at 189.23 97.8478 0)
 			(effects
 				(font
@@ -3847,7 +3847,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "H3")
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -3862,7 +3862,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59f6bde4-f75e-434a-bfe4-8addecc8ca9f")
-		(property "Reference" "JP2"
+		(property "Reference" "JP1"
 			(at 74.93 30.48 0)
 			(effects
 				(font
@@ -3878,7 +3878,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 74.93 33.02 0)
 			(effects
 				(font
@@ -3914,7 +3914,7 @@
 		(instances
 			(project ""
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "JP2")
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -3946,7 +3946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
 			(at 106.045 67.31 0)
 			(effects
 				(font
@@ -4004,7 +4004,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "87695704-6480-4380-b0e5-c8024c21dd56")
-		(property "Reference" "H4"
+		(property "Reference" "H3"
 			(at 19.05 97.8478 0)
 			(effects
 				(font
@@ -4052,7 +4052,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "H4")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -4139,7 +4139,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f2e72d0-4fb4-4f40-b38f-a9a606ff8d3c")
-		(property "Reference" "C14"
+		(property "Reference" "C1"
 			(at 87.249 80.1116 0)
 			(effects
 				(font
@@ -4201,7 +4201,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "C14")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -4216,7 +4216,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d6f2222e-57d2-47cf-b404-05246d1799f3")
-		(property "Reference" "JP1"
+		(property "Reference" "JP3"
 			(at 107.95 58.42 0)
 			(effects
 				(font
@@ -4232,7 +4232,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 107.95 60.96 0)
 			(effects
 				(font
@@ -4268,7 +4268,7 @@
 		(instances
 			(project ""
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "JP1")
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -4347,7 +4347,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db790506-ed18-43c9-8707-26913f75efe8")
-		(property "Reference" "R1"
+		(property "Reference" "R2"
 			(at 138.43 85.1705 90)
 			(effects
 				(font
@@ -4407,7 +4407,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -4510,7 +4510,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e8f0f170-87cc-451c-ae09-b0f0e9f1d8eb")
-		(property "Reference" "JP3"
+		(property "Reference" "JP2"
 			(at 74.93 53.34 0)
 			(effects
 				(font
@@ -4526,7 +4526,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 74.93 50.8 0)
 			(effects
 				(font
@@ -4562,7 +4562,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "JP3")
+					(reference "JP2")
 					(unit 1)
 				)
 			)
@@ -4578,7 +4578,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9bafb7b-3e84-4f7c-a196-9287a508517d")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 131.7625 75.2645 0)
 			(effects
 				(font
@@ -4630,7 +4630,7 @@
 		(instances
 			(project "ur10"
 				(path "/23315eab-0fca-4b67-95b2-d836b4cb453c"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
