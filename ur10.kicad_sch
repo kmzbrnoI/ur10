@@ -4319,7 +4319,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "4k7"
 			(at 138.43 82.7462 90)
 			(effects
 				(font
